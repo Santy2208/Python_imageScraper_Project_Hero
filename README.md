@@ -27,7 +27,7 @@ Let’s take an example where we need thousands of images to train our object de
 
 In this document, we’ll take the example of searching for images and downloading them and take it further.
 
-For example, if we open google.com and search for ‘cars, the search result will be as follows:
+For example, if we open google.com and search for ‘cars, the search result will be as follows:(#Please refer the screensort)
        
        
          
